@@ -1,0 +1,30 @@
+body{
+    font-family:"Assistant", sans-serif;
+}
+
+.bg-banner-part{
+    background-color: bisque;
+}
+
+.panda-button{
+    background-color: crimson;
+    color: black;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    font-weight: bold;
+}
+.bg-about{
+    color: blanchedalmond;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.bg-pad{
+    background-color: lightblue;
+}
+.bg-padd{
+    background-color: lightcoral;
+}
+.bg-paddi{
+    background-color: lightsalmon;
+}
